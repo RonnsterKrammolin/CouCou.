@@ -4,7 +4,7 @@ gooey_languages = Tree(os.path.join(gooey_root, 'languages'), prefix = 'gooey/la
 gooey_images = Tree(os.path.join(gooey_root, 'images'), prefix = 'gooey/images')
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\jackm\\Documents\\Blog Posts\\Gooey_Inno\\.env\\Scripts'],
+             pathex=['C:\Users\0513257014\OneDrive - Tucson Unified School District\!بيتر\CouCou\CouCou.py'],
              hiddenimports=[],
              hookspath=None,
              runtime_hooks=None,
